@@ -162,7 +162,7 @@ section {
             justify-content: center;
             align-items: center;
         }
-        #btn_zuri, #books, #book_python, #pitch, #book_design, #twitter_link {
+        #btn_zuri, #books, #book_python, #pitch, #book_design, #twitter_link, #contact{
             padding: 24px 32px;
             gap: 8px;
             width: 300px;
@@ -218,7 +218,7 @@ section {
             justify-content: center;
             align-items: center;
         }
-        #btn_zuri, #books, #book_python, #pitch, #book_design, #twitter_link {
+        #btn_zuri, #books, #book_python, #pitch, #book_design, #twitter_link, #contact {
             padding: 24px 32px;
             gap: 8px;
             width: 250px;
